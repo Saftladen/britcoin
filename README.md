@@ -3,7 +3,7 @@ Britcoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/britcoin/britcoin.svg?branch=master)](https://travis-ci.org/britcoin/britcoin)
 
-https://bitcoincore.org
+https://britcoincore.org
 
 What is Britcoin?
 ----------------
@@ -15,8 +15,8 @@ out collectively by the network. Britcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Britcoin Core software, see https://bitcoincore.org/en/download/, or read the
-[original whitepaper](https://bitcoincore.org/britcoin.pdf).
+the Britcoin Core software, see https://britcoincore.org/en/download/, or read the
+[original whitepaper](https://britcoincore.org/britcoin.pdf).
 
 License
 -------
